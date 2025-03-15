@@ -1,2 +1,3 @@
 ﻿  EquationSolvation.cpp
-  EquationSolvation.vcxproj -> C:\Users\tatoromanov23\source\repos\EquationSolvation\x64\Debug\EquationSolvation.exe
+C:\Users\user\OneDrive - ПГКПИ - Бургас\Документи\12\sprint-eschool-code-storm\EquationSolvation\EquationSolvation.cpp(59,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  EquationSolvation.vcxproj -> C:\Users\user\OneDrive - ПГКПИ - Бургас\Документи\12\sprint-eschool-code-storm\x64\Debug\EquationSolvation.exe
