@@ -1,5 +1,6 @@
 <h1 align="center"> Storm | Code </h1>
-    
+    ![image](https://github.com/user-attachments/assets/5107c6b5-c937-4459-806d-83233a6769c3)
+
 <br>
     
 <!-- TABLE OF CONTENTS -->
@@ -19,7 +20,7 @@
 <h2 id="about-the-project">About The Project</h2>
     
 <p align="justify">
-Our project is a game made by using C++ programming language, it is a hangman-like game but instead of guessing any ordinary words you have to guess a math term.
+Our project is a game made by using C++ programming language, It is a game where you need to pick the right answers for the equations given.
 </p>
     
     
