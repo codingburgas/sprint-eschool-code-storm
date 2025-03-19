@@ -1,9 +1,49 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user\\OneDrive - \u041F\u0413\u041A\u041F\u0418 - \u0411\u0443\u0440\u0433\u0430\u0441\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\12\\sprint-eschool-code-storm\\",
+  "WorkspaceRootPath": "C:\\Users\\Dell\\Documents\\sprint-eschool-code-storm\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8B936B9B-C0B4-4C72-AE14-20D9D35CE90A}|EquationSolvation\\EquationSolvation.vcxproj|C:\\Users\\user\\OneDrive - \u041F\u0413\u041A\u041F\u0418 - \u0411\u0443\u0440\u0433\u0430\u0441\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\12\\sprint-eschool-code-storm\\EquationSolvation\\EquationSolvation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{8B936B9B-C0B4-4C72-AE14-20D9D35CE90A}|EquationSolvation\\EquationSolvation.vcxproj|C:\\Users\\Dell\\Documents\\sprint-eschool-code-storm\\EquationSolvation\\question.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8B936B9B-C0B4-4C72-AE14-20D9D35CE90A}|EquationSolvation\\EquationSolvation.vcxproj|solutionrelative:EquationSolvation\\question.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B936B9B-C0B4-4C72-AE14-20D9D35CE90A}|EquationSolvation\\EquationSolvation.vcxproj|C:\\Users\\Dell\\Documents\\sprint-eschool-code-storm\\EquationSolvation\\question.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8B936B9B-C0B4-4C72-AE14-20D9D35CE90A}|EquationSolvation\\EquationSolvation.vcxproj|solutionrelative:EquationSolvation\\question.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B936B9B-C0B4-4C72-AE14-20D9D35CE90A}|EquationSolvation\\EquationSolvation.vcxproj|C:\\Users\\Dell\\Documents\\sprint-eschool-code-storm\\EquationSolvation\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8B936B9B-C0B4-4C72-AE14-20D9D35CE90A}|EquationSolvation\\EquationSolvation.vcxproj|solutionrelative:EquationSolvation\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B936B9B-C0B4-4C72-AE14-20D9D35CE90A}|EquationSolvation\\EquationSolvation.vcxproj|C:\\Users\\Dell\\Documents\\sprint-eschool-code-storm\\EquationSolvation\\menu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8B936B9B-C0B4-4C72-AE14-20D9D35CE90A}|EquationSolvation\\EquationSolvation.vcxproj|solutionrelative:EquationSolvation\\menu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B936B9B-C0B4-4C72-AE14-20D9D35CE90A}|EquationSolvation\\EquationSolvation.vcxproj|C:\\Users\\Dell\\Documents\\sprint-eschool-code-storm\\EquationSolvation\\menu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8B936B9B-C0B4-4C72-AE14-20D9D35CE90A}|EquationSolvation\\EquationSolvation.vcxproj|solutionrelative:EquationSolvation\\menu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B936B9B-C0B4-4C72-AE14-20D9D35CE90A}|EquationSolvation\\EquationSolvation.vcxproj|C:\\Users\\Dell\\Documents\\sprint-eschool-code-storm\\EquationSolvation\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8B936B9B-C0B4-4C72-AE14-20D9D35CE90A}|EquationSolvation\\EquationSolvation.vcxproj|solutionrelative:EquationSolvation\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B936B9B-C0B4-4C72-AE14-20D9D35CE90A}|EquationSolvation\\EquationSolvation.vcxproj|C:\\Users\\Dell\\Documents\\sprint-eschool-code-storm\\EquationSolvation\\game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8B936B9B-C0B4-4C72-AE14-20D9D35CE90A}|EquationSolvation\\EquationSolvation.vcxproj|solutionrelative:EquationSolvation\\game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B936B9B-C0B4-4C72-AE14-20D9D35CE90A}|EquationSolvation\\EquationSolvation.vcxproj|C:\\Users\\Dell\\Documents\\sprint-eschool-code-storm\\EquationSolvation\\game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8B936B9B-C0B4-4C72-AE14-20D9D35CE90A}|EquationSolvation\\EquationSolvation.vcxproj|solutionrelative:EquationSolvation\\game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B936B9B-C0B4-4C72-AE14-20D9D35CE90A}|EquationSolvation\\EquationSolvation.vcxproj|C:\\Users\\Dell\\Documents\\sprint-eschool-code-storm\\EquationSolvation\\drawObjects.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8B936B9B-C0B4-4C72-AE14-20D9D35CE90A}|EquationSolvation\\EquationSolvation.vcxproj|solutionrelative:EquationSolvation\\drawObjects.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B936B9B-C0B4-4C72-AE14-20D9D35CE90A}|EquationSolvation\\EquationSolvation.vcxproj|C:\\Users\\Dell\\Documents\\sprint-eschool-code-storm\\EquationSolvation\\drawObjects.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8B936B9B-C0B4-4C72-AE14-20D9D35CE90A}|EquationSolvation\\EquationSolvation.vcxproj|solutionrelative:EquationSolvation\\drawObjects.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B936B9B-C0B4-4C72-AE14-20D9D35CE90A}|EquationSolvation\\EquationSolvation.vcxproj|C:\\Users\\Dell\\Documents\\sprint-eschool-code-storm\\EquationSolvation\\EquationSolvation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{8B936B9B-C0B4-4C72-AE14-20D9D35CE90A}|EquationSolvation\\EquationSolvation.vcxproj|solutionrelative:EquationSolvation\\EquationSolvation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -14,17 +54,147 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "game.h",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\sprint-eschool-code-storm\\EquationSolvation\\game.h",
+              "RelativeDocumentMoniker": "EquationSolvation\\game.h",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\sprint-eschool-code-storm\\EquationSolvation\\game.h",
+              "RelativeToolTip": "EquationSolvation\\game.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-19T18:04:22.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "game.cpp",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\sprint-eschool-code-storm\\EquationSolvation\\game.cpp",
+              "RelativeDocumentMoniker": "EquationSolvation\\game.cpp",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\sprint-eschool-code-storm\\EquationSolvation\\game.cpp",
+              "RelativeToolTip": "EquationSolvation\\game.cpp",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwCoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-19T18:03:53.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "drawObjects.cpp",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\sprint-eschool-code-storm\\EquationSolvation\\drawObjects.cpp",
+              "RelativeDocumentMoniker": "EquationSolvation\\drawObjects.cpp",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\sprint-eschool-code-storm\\EquationSolvation\\drawObjects.cpp",
+              "RelativeToolTip": "EquationSolvation\\drawObjects.cpp",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAADAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-19T18:03:24.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "drawObjects.h",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\sprint-eschool-code-storm\\EquationSolvation\\drawObjects.h",
+              "RelativeDocumentMoniker": "EquationSolvation\\drawObjects.h",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\sprint-eschool-code-storm\\EquationSolvation\\drawObjects.h",
+              "RelativeToolTip": "EquationSolvation\\drawObjects.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-19T18:02:55.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "menu.cpp",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\sprint-eschool-code-storm\\EquationSolvation\\menu.cpp",
+              "RelativeDocumentMoniker": "EquationSolvation\\menu.cpp",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\sprint-eschool-code-storm\\EquationSolvation\\menu.cpp",
+              "RelativeToolTip": "EquationSolvation\\menu.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-19T18:02:31.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "menu.h",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\sprint-eschool-code-storm\\EquationSolvation\\menu.h",
+              "RelativeDocumentMoniker": "EquationSolvation\\menu.h",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\sprint-eschool-code-storm\\EquationSolvation\\menu.h",
+              "RelativeToolTip": "EquationSolvation\\menu.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-19T18:02:05.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "question.cpp",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\sprint-eschool-code-storm\\EquationSolvation\\question.cpp",
+              "RelativeDocumentMoniker": "EquationSolvation\\question.cpp",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\sprint-eschool-code-storm\\EquationSolvation\\question.cpp",
+              "RelativeToolTip": "EquationSolvation\\question.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-19T18:01:42.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "question.h",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\sprint-eschool-code-storm\\EquationSolvation\\question.h",
+              "RelativeDocumentMoniker": "EquationSolvation\\question.h",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\sprint-eschool-code-storm\\EquationSolvation\\question.h",
+              "RelativeToolTip": "EquationSolvation\\question.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-19T18:01:12.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "pch.h",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\sprint-eschool-code-storm\\EquationSolvation\\pch.h",
+              "RelativeDocumentMoniker": "EquationSolvation\\pch.h",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\sprint-eschool-code-storm\\EquationSolvation\\pch.h",
+              "RelativeToolTip": "EquationSolvation\\pch.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-19T18:00:22.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\sprint-eschool-code-storm\\EquationSolvation\\main.cpp",
+              "RelativeDocumentMoniker": "EquationSolvation\\main.cpp",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\sprint-eschool-code-storm\\EquationSolvation\\main.cpp",
+              "RelativeToolTip": "EquationSolvation\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-19T17:59:41.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "EquationSolvation.cpp",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive - \u041F\u0413\u041A\u041F\u0418 - \u0411\u0443\u0440\u0433\u0430\u0441\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\12\\sprint-eschool-code-storm\\EquationSolvation\\EquationSolvation.cpp",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\sprint-eschool-code-storm\\EquationSolvation\\EquationSolvation.cpp",
               "RelativeDocumentMoniker": "EquationSolvation\\EquationSolvation.cpp",
-              "ToolTip": "C:\\Users\\user\\OneDrive - \u041F\u0413\u041A\u041F\u0418 - \u0411\u0443\u0440\u0433\u0430\u0441\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\12\\sprint-eschool-code-storm\\EquationSolvation\\EquationSolvation.cpp",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\sprint-eschool-code-storm\\EquationSolvation\\EquationSolvation.cpp",
               "RelativeToolTip": "EquationSolvation\\EquationSolvation.cpp",
-              "ViewState": "AQIAAH4AAAAAAAAAAAAiwIoAAAAAAAAA",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAiwIoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-15T20:25:23.426Z",
               "EditorCaption": ""
