@@ -1,3 +1,6 @@
 ﻿  EquationSolvation.cpp
-C:\Users\user\OneDrive - ПГКПИ - Бургас\Документи\12\sprint-eschool-code-storm\EquationSolvation\EquationSolvation.cpp(59,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\user\OneDrive - ПГКПИ - Бургас\Документи\12\sprint-eschool-code-storm\EquationSolvation\EquationSolvation.cpp(43,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\user\OneDrive - ПГКПИ - Бургас\Документи\12\sprint-eschool-code-storm\EquationSolvation\EquationSolvation.cpp(149,103): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
   EquationSolvation.vcxproj -> C:\Users\user\OneDrive - ПГКПИ - Бургас\Документи\12\sprint-eschool-code-storm\x64\Debug\EquationSolvation.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

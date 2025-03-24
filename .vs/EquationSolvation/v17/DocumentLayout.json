@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\user\\OneDrive - \u041F\u0413\u041A\u041F\u0418 - \u0411\u0443\u0440\u0433\u0430\u0441\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\12\\sprint-eschool-code-storm\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8B936B9B-C0B4-4C72-AE14-20D9D35CE90A}|EquationSolvation\\EquationSolvation.vcxproj|C:\\Users\\user\\OneDrive - \u041F\u0413\u041A\u041F\u0418 - \u0411\u0443\u0440\u0433\u0430\u0441\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\12\\sprint-eschool-code-storm\\EquationSolvation\\EquationSolvation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8B936B9B-C0B4-4C72-AE14-20D9D35CE90A}|EquationSolvation\\EquationSolvation.vcxproj|solutionrelative:EquationSolvation\\EquationSolvation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{8B936B9B-C0B4-4C72-AE14-20D9D35CE90A}|EquationSolvation\\EquationSolvation.vcxproj|C:\\Users\\user\\OneDrive - \u041F\u0413\u041A\u041F\u0418 - \u0411\u0443\u0440\u0433\u0430\u0441\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\12\\sprint-eschool-code-storm\\EquationSolvation\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8B936B9B-C0B4-4C72-AE14-20D9D35CE90A}|EquationSolvation\\EquationSolvation.vcxproj|solutionrelative:EquationSolvation\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B936B9B-C0B4-4C72-AE14-20D9D35CE90A}|EquationSolvation\\EquationSolvation.vcxproj|C:\\Users\\user\\OneDrive - \u041F\u0413\u041A\u041F\u0418 - \u0411\u0443\u0440\u0433\u0430\u0441\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\12\\sprint-eschool-code-storm\\EquationSolvation\\subjects.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8B936B9B-C0B4-4C72-AE14-20D9D35CE90A}|EquationSolvation\\EquationSolvation.vcxproj|solutionrelative:EquationSolvation\\subjects.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "EquationSolvation.cpp",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive - \u041F\u0413\u041A\u041F\u0418 - \u0411\u0443\u0440\u0433\u0430\u0441\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\12\\sprint-eschool-code-storm\\EquationSolvation\\EquationSolvation.cpp",
-              "RelativeDocumentMoniker": "EquationSolvation\\EquationSolvation.cpp",
-              "ToolTip": "C:\\Users\\user\\OneDrive - \u041F\u0413\u041A\u041F\u0418 - \u0411\u0443\u0440\u0433\u0430\u0441\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\12\\sprint-eschool-code-storm\\EquationSolvation\\EquationSolvation.cpp",
-              "RelativeToolTip": "EquationSolvation\\EquationSolvation.cpp",
-              "ViewState": "AQIAAH4AAAAAAAAAAAAiwIoAAAAAAAAA",
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive - \u041F\u0413\u041A\u041F\u0418 - \u0411\u0443\u0440\u0433\u0430\u0441\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\12\\sprint-eschool-code-storm\\EquationSolvation\\main.cpp",
+              "RelativeDocumentMoniker": "EquationSolvation\\main.cpp",
+              "ToolTip": "C:\\Users\\user\\OneDrive - \u041F\u0413\u041A\u041F\u0418 - \u0411\u0443\u0440\u0433\u0430\u0441\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\12\\sprint-eschool-code-storm\\EquationSolvation\\main.cpp",
+              "RelativeToolTip": "EquationSolvation\\main.cpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACkAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-15T20:25:23.426Z",
+              "WhenOpened": "2025-03-24T23:13:27.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "subjects.h",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive - \u041F\u0413\u041A\u041F\u0418 - \u0411\u0443\u0440\u0433\u0430\u0441\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\12\\sprint-eschool-code-storm\\EquationSolvation\\subjects.h",
+              "RelativeDocumentMoniker": "EquationSolvation\\subjects.h",
+              "ToolTip": "C:\\Users\\user\\OneDrive - \u041F\u0413\u041A\u041F\u0418 - \u0411\u0443\u0440\u0433\u0430\u0441\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\12\\sprint-eschool-code-storm\\EquationSolvation\\subjects.h",
+              "RelativeToolTip": "EquationSolvation\\subjects.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-24T23:12:34.099Z",
               "EditorCaption": ""
             }
           ]

@@ -127,7 +127,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="EquationSolvation.cpp" />
+    <ClCompile Include="main.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="subjects.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
