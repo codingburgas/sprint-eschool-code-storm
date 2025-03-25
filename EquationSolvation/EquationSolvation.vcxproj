@@ -132,6 +132,8 @@
     <ClCompile Include="subjects.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="main.h" />
+    <ClInclude Include="quiz.h" />
     <ClInclude Include="subjects.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

@@ -3,6 +3,7 @@
 #include <iostream>
 #include <cstdlib>
 #include <ctime>
+using namespace std;
 
 int main() {
     srand(time(0));
@@ -37,6 +38,6 @@ int main() {
     }
 
     CloseWindow();
-    std::cout << "Thank you for using the Digital School! Your final score is: " << score << " points.\n";
+    cout << "Thank you for using the Digital School! Your final score is: " << score << " points.\n";
     return 0;
 }
