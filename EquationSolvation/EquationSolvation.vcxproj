@@ -18,6 +18,16 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="question.h" />
+    <ClInclude Include="quiz_functions.h" />
+    <ClInclude Include="subjects.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="quiz_functions.cpp" />
+    <ClCompile Include="subjects.cpp" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
@@ -126,16 +136,6 @@
       <GenerateDebugInformation>true</GenerateDebugInformation>
     </Link>
   </ItemDefinitionGroup>
-  <ItemGroup>
-    <ClCompile Include="main.cpp" />
-    <ClCompile Include="quiz.cpp" />
-    <ClCompile Include="subjects.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="main.h" />
-    <ClInclude Include="quiz.h" />
-    <ClInclude Include="subjects.h" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

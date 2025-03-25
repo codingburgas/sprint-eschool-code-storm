@@ -1,9 +1,9 @@
 ﻿  main.cpp
-  quiz.cpp
+C:\Users\user\Downloads\sprint-eschool-code-storm\EquationSolvation\main.cpp(20,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  quiz_functions.cpp
+C:\Users\user\Downloads\sprint-eschool-code-storm\EquationSolvation\quiz_functions.cpp(108,103): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
   subjects.cpp
-C:\Users\totot\Downloads\sprint-eschool-code-storm\Digital Classroom\EquationSolvation\main.cpp(1,10): error C1083: Cannot open include file: 'quiz.h': No such file or directory
-C:\Users\totot\Downloads\sprint-eschool-code-storm\Digital Classroom\EquationSolvation\quiz.cpp(1,10): error C1083: Cannot open include file: 'quiz.h': No such file or directory
-C:\Users\totot\Downloads\sprint-eschool-code-storm\Digital Classroom\EquationSolvation\subjects.h(5,10): error C1083: Cannot open include file: 'quiz.h': No such file or directory
-  (compiling source file 'subjects.cpp')
-  
   Generating Code...
+  EquationSolvation.vcxproj -> C:\Users\user\Downloads\sprint-eschool-code-storm\x64\Debug\EquationSolvation.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

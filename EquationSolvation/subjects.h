@@ -1,13 +1,15 @@
+#pragma once
 #ifndef SUBJECTS_H
 #define SUBJECTS_H
 
-#include <vector>
-#include "quiz.h"
+#include <string>
 
-void mathematics();
-void bulgarianLanguage();
-void history();
-void geography();
-void biology();
+using namespace std;
 
- 
+string mathematics();
+string bulgarianLanguage();
+string history();
+string geography();
+string biology();
+
+#endif
